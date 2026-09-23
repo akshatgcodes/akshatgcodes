@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/32569398/README.2.md)
+[README (1).md](https://github.com/user-attachments/files/32569439/README.1.md)
 <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
 </p>
@@ -22,12 +22,6 @@ I build **full-stack web apps and practical tools**: backends, APIs, databases, 
 
 Currently in my final year of **B.Tech CSE at SRMIST**, and co-author of a research paper on an **RFID-Based Automated Parking Management System**.
 
-## Currently
-
-- 🔨 **Building:** _TODO_
-- 📚 **Learning:** _TODO_
-- 💼 **Open to:** SDE internships and full-time roles
-
 ---
 
 ## Projects
@@ -50,13 +44,9 @@ Production-oriented web development and website deployment.
 **Intern** at OutworX Solutions *(Jun – Jul 2025)*
 Drove adoption of RFID-based smart parking systems through product demos, lead qualification, and client engagement with residential societies.
 
----
+**Research:** co-authored a paper on an RFID-Based Automated Parking Management System.
 
-## Achievements
-
-🏆 **Best Emerging Innovator:** Hack Summit hackathon  
-📄 **Research:** co-authored a paper on an RFID-Based Automated Parking Management System  
-🎓 **Certified:** SAP Certified Data Analyst (SAP Analytics Cloud)
+🏆 **Best Emerging Innovator:** Hack Summit hackathon.
 
 ---
 
@@ -79,18 +69,6 @@ Drove adoption of RFID-based smart parking systems through product demos, lead q
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akshatgcodes&show_icons=true&hide_border=true&theme=transparent&title_color=ef4444&icon_color=ef4444" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatgcodes&layout=compact&hide_border=true&theme=transparent&title_color=ef4444" alt="Top languages">
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akshatgcodes&hide_border=true&theme=transparent&ring=ef4444&fire=ef4444&currStreakLabel=ef4444" alt="GitHub streak">
 </p>
 
 ---
