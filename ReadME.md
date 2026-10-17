@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://akshatgcodes.in"><img src="https://img.shields.io/badge/akshatgcodes.in-ef4444?style=flat-square" alt="Website"></a>
-  <a href="mailto:akshattg2005@gmail.com"><img src="https://img.shields.io/badge/akshattg2005@gmail.com-ef4444?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:akshatgcodes@gmail.com"><img src="https://img.shields.io/badge/akshatgcodes@gmail.com-ef4444?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/akshatgcodes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=akshatgcodes&left_color=gray&right_color=red" alt="Profile Views"></p>
 
@@ -72,6 +72,6 @@ Drove adoption of RFID-based smart parking systems through product demos, lead q
 ---
 
 <p align="center">
-  <a href="mailto:akshattg2005@gmail.com">akshattg2005@gmail.com</a> &nbsp;·&nbsp;
+  <a href="mailto:akshatgcodes@gmail.com">akshatgcodes@gmail.com</a> &nbsp;·&nbsp;
   <a href="https://akshatgcodes.in">akshatgcodes.in</a>
 </p>
