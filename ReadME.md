@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/32569439/README.1.md)
 <p align="center">
   <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="#ef4444" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"/><polyline points="8 6 2 12 8 18"/></svg>
 </p>
@@ -13,8 +12,7 @@
   <a href="https://akshatgcodes.in"><img src="https://img.shields.io/badge/akshatgcodes.in-ef4444?style=flat-square" alt="Website"></a>
   <a href="mailto:akshattg2005@gmail.com"><img src="https://img.shields.io/badge/akshattg2005@gmail.com-ef4444?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://linkedin.com/in/akshatgcodes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://komarev.com/ghpvc/?username=akshatgcodes&style=flat-square&color=ef4444&label=views" alt="Profile Views">
-</p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=akshatgcodes&left_color=gray&right_color=red" alt="Profile Views"></p>
 
 ---
 
